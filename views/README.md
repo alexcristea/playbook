@@ -1,8 +1,8 @@
-# Playbook
+# Views
 
-A collecion of personal **Views**, **Tools** and **Workflows**.
+A collection of concepts, thoughts and narratives viewed through the lenses of my own experiences.
 
-## Views
+## Index
 
 ### H
 
