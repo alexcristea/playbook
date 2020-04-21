@@ -18,12 +18,12 @@ The knowledge about the world and how it works exists but we fail to apply it co
 
 In the last decades, the know-how and complexity have increased in all fields and industries and, as a result, we have real challenges delivering on them. These challenges are reflected in the common error that we frequently make.
 
-There is also an emotional attachments to the ineptitude errors. In general, it is easier to forgive an error made because of knowledge lack than an error made because you did not apply the knowledge correctly (thus the synonym of *negligence* or *heartlessness*).
+There is also an emotional attachments to the ineptitude errors. In general, it is easier to forgive an error made because of knowledge lack than an error made because you did not apply the knowledge correctly (thus the synonym of _negligence_ or _heartlessness_).
 
 The main strategy to overcoming ineptitude failure is trough more experience and training. While experience and practice is important for ones mastery, this strategy works when the reason of failure is the individual skill itself.
 
 > Yet our failures remain frequent ... despite remarkable individual ability.
-> 
+>
 > -- [The Checklist Manifesto][1] by [Atul Gawande][2]
 
 The volume and complexity of what we know has exceeded or individual ability to deliver it benefits correctly, safely or reliably. Knowledge has both saved us and burdened us.
