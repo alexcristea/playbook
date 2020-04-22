@@ -14,5 +14,9 @@ A collection of concepts, thoughts and narratives viewed through the lenses of m
 
 ### P
 
-- [Power of decision](/views/power-of-decision.md)
+- [Power of Decision](/views/power-of-decision.md)
 - [Problem Complexity](/views/problem-complexity.md)
+
+### T
+
+- [Time Management](/views/time-management.md)

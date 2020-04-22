@@ -14,5 +14,9 @@ A collecion of personal **Views**, **Tools** and **Workflows**.
 
 ### P
 
-- [Power of decision](/views/power-of-decision.md)
+- [Power of Decision](/views/power-of-decision.md)
 - [Problem Complexity](/views/problem-complexity.md)
+
+### T
+
+- [Time Management](/views/time-management.md)
