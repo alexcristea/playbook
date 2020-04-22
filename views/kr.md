@@ -17,3 +17,10 @@ A KR should belong to an objective:
 An objective needs 2-3 KRs. A metaphor for this is the GPS that needs 2-3 satellites to pin point your location.
 
 > Increase cNPS from 7 to 9
+
+## Resources
+
+- [The difference between Metrics, KPIs & Key Results][1] • [Video][2]
+
+[1]: https://www.perdoo.com/resources/the-difference-between-metrics-kpis-key-results/
+[2]: https://www.youtube.com/watch?v=lLKyuUqtwuA
