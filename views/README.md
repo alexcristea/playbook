@@ -8,9 +8,14 @@ A collection of concepts, thoughts and narratives viewed through the lenses of m
 
 - [Human Fallibility](/views/human-fallibility.md)
 
+### K
+
+- [KPIs (Key Performance Indicator)](/views/kpi.md)
+- [KRs (Key Results)](/views/kr.md)
+
 ### M
 
-- [Metrics vs. KPIs vs. KRs](/views/metric-kpi-kr.md)
+- [Metrics](/views/metric.md)
 
 ### P
 

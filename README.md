@@ -8,9 +8,14 @@ A collecion of personal **Views**, **Tools** and **Workflows**.
 
 - [Human Fallibility](/views/human-fallibility.md)
 
+### K
+
+- [KPIs (Key Performance Indicator)](/views/kpi.md)
+- [KRs (Key Results)](/views/kr.md)
+
 ### M
 
-- [Metrics vs. KPIs vs. KRs](/views/metric-kpi-kr.md)
+- [Metrics](/views/metric.md)
 
 ### P
 

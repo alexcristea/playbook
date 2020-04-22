@@ -1,0 +1,19 @@
+# KRs (Key Results)
+
+A tool to positively impact the performance of a certain metric.
+
+It consists of:
+
+- Metric
+- Start value
+- Target value
+- Title _(should contain the metric, the start value and the target value)_
+
+A KR should belong to an objective:
+
+- it removes the ambiguity by clarifying and quantifying what success looks like for that objective.
+- measures the progress towards that objective.
+
+An objective needs 2-3 KRs. A metaphor for this is the GPS that needs 2-3 satellites to pin point your location.
+
+> Increase cNPS from 7 to 9
