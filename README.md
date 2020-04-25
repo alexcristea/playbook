@@ -1,6 +1,6 @@
 # Playbook
 
-A collecion of personal **Views**, **Tools** and **Workflows**.
+A collection of personal **Views**, **Tools** and **Workflows**.
 
 ## Views
 
@@ -10,12 +10,16 @@ A collecion of personal **Views**, **Tools** and **Workflows**.
 
 ### K
 
-- [KPIs (Key Performance Indicator)](/views/kpi.md)
-- [KRs (Key Results)](/views/kr.md)
+- [KPI (Key Performance Indicator)](/views/kpi.md)
+- [KR (Key Result)](/views/kr.md)
 
 ### M
 
-- [Metrics](/views/metric.md)
+- [Metric](/views/metric.md)
+
+### O
+
+- [OKR (Objective Key Result)](/views/okr.md)
 
 ### P
 

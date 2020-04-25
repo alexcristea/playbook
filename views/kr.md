@@ -1,4 +1,4 @@
-# KRs (Key Results)
+# KR (Key Result)
 
 A tool to positively impact the performance of a certain metric.
 
