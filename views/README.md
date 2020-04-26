@@ -4,6 +4,10 @@ A collection of concepts, thoughts and narratives viewed through the lenses of m
 
 ## Index
 
+### C
+
+- [Checklist](/views/checklist.md)
+
 ### H
 
 - [Human Fallibility](/views/human-fallibility.md)

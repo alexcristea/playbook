@@ -4,6 +4,10 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ## Views
 
+### C
+
+- [Checklist](/views/checklist.md)
+
 ### H
 
 - [Human Fallibility](/views/human-fallibility.md)
