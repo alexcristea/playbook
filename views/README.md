@@ -1,6 +1,6 @@
 # Views
 
-A collection of concepts, thoughts and narratives viewed through the lenses of my own experiences.
+A collection of concepts, thoughts, and narratives viewed through the lenses of my own experiences.
 
 ## Index
 

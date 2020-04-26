@@ -71,9 +71,7 @@ Look for the patterns of mistakes and put a few checklists in place, just like a
 
 ## Ussage
 
-To work with the volume of knowledge and handle the complexity we've split up the fields into specializations and specializations into superspecializations.
-
-However, no matter how specialized and trained we are, inaptitude errors still occur.
+No matter how specialized and trained we are, inaptitude errors still occur.
 
 There are two main difficulties that experts face in the working environment:
 
