@@ -36,6 +36,14 @@
 - PMSing.
 - Lessons learned.
 
+### A brief history of todo lists
+
+> "Tis easy to frame a good bold resolution; But hard is the Task that concerns execution."
+> — Benjamin Franklin
+
+- The Genesis
+- The story of Benjamin Franklin's virtues tracker
+
 ## Quotes
 
 > When psychologists isolate the personal qualities that predict “positive outcomes” in life, they consistently find two traits: intelligence and self-control.

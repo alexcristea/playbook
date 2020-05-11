@@ -35,9 +35,11 @@ Lessons learned:
 
 - **When you're tired, sleep**: Sleep reduces the body's demands for glucose and improves the ability to make use of it. Sleep deprivation impairs the processing of glucose, thus weakening self-control and decision making.
 
-### Self-control
+### Self-control (or self-regulation)
 
-Self-control (or self-regulation) is the ability to regulate emotions, thoughts, and behavior in the face of temptation and impulses (short term) and act on long term goals. It consumes will power.
+To ragualte: to guide towards a specific goal or standard.
+
+Self-control is the ability to regulate emotions, thoughts, and behavior in the face of temptation and impulses (short term) and act on long term goals. It consumes will power.
 
 It is the trait of positive outcomes in life, but also the root cause of all personal and social problems.
 
@@ -53,6 +55,15 @@ Mastering self-control (aka discipline) enables you to conserve will power for m
 How to master self-control:
 
 1. Set a goal
+
+The problem is that we have too many goals, and some of them are even conflicting.
+
+Conflicting goals:
+
+- you worry a lot: as you spend more time thinking
+- you get less done: as you spend more time ruminating then taking action
+- your mental and physical health suffers: you become stuck and more unhappy and unhealthy
+
 2. ...
 
 _Ego depletion_: diminish the capacity to self-control by overexerting will power. Studies show that ego depletion can affect other social animals (like dogs).
