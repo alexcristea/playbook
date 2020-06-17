@@ -1,6 +1,6 @@
-# Daily Planning Checklist
+# Daily Checklist
 
-## Morning
+## Planning
 
 - What am I grateful for today?
 - On what initiatives will I work today?
@@ -9,7 +9,7 @@
 - What are my concerns?
 - What can be delegated?
 
-## Afternoon
+## Review
 
 - What was good today?
 - What was not so good today?
