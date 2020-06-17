@@ -1,4 +1,4 @@
-# Weekly Planning Checklist
+# Weekly Checklist
 
 ## Review
 
