@@ -1,4 +1,4 @@
-# Monthly Planning Checklist
+# Monthly Checklist
 
 ## Review
 
