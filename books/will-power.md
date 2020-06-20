@@ -1,28 +1,34 @@
-# Will Power: Rediscovering our greatest strength
+# Willpower: Rediscovering our greatest strength
+
+## Influenced views
+
+- [GTD](/views/gtd.md)
+- [Self-Control](/views/self-control.md)
+- [Willpower](/views/willpower.md)
 
 ## Bird's eye view
 
 ### Introduction
 
 > Willpower lets us change ourselves and our society in small and large ways.
-> — [TWillpower: Rediscovering Our Greatest Strength][1], by [Roy F. Baumeister][2], [John Tierney][3]
+> — [Willpower: Rediscovering Our Greatest Strength][1], by [Roy F. Baumeister][2], [John Tierney][3]
 
-- Introducing will power and self-control.
-- Will Power: history and evolution.
-- The **marshmallow experiment** that showed that children with will power in early childhood had a great ROI in their adult life.
+- Introducing willpower and self-control.
+- Willpower: history and evolution.
+- The **marshmallow experiment** that showed that children with willpower in early childhood had a great ROI in their adult life.
 - The pager experiment that showed that temptation is the norm.
 - The long time experiment that observed persons from their childhood to 32 years that demonstrated the self-control benefits.
 
-### Is will power more than a metaphor?
+### Is willpower more than a metaphor?
 
 > Willpower looked like much more than a metaphor. It seemed to be like a muscle that could be fatigued through use.
 > — [TWillpower: Rediscovering Our Greatest Strength][1], by [Roy F. Baumeister][2], [John Tierney][3]
 
 - The story of how Amanda Palmer built her discipline by posing as a life statue (Eight Foot Bride).
-- The **radish experiment** that showed that will power is a thing.
-- The sad Italian movie experiment that showed how controlling emotions depletes your will power.
-- The white bear experiment that showed how controlling your thoughts depletes your will power.
-- THe dirty socks experiment that showed that will power can be conserved.
+- The **radish experiment** that showed that willpower is a thing.
+- The sad Italian movie experiment that showed how controlling emotions depletes your willpower.
+- The white bear experiment that showed how controlling your thoughts depletes your willpower.
+- THe dirty socks experiment that showed that willpower can be conserved.
 - Lessons learned.
 
 ### Where is the Power from Will coming from?
@@ -30,7 +36,7 @@
 > No glucose, no willpower: The pattern showed up time and again as researchers tested more people in more situations.
 > — [TWillpower: Rediscovering Our Greatest Strength][1], by [Roy F. Baumeister][2], [John Tierney][3]
 
-- The Mardi Gras theory and the failed experiment that showed that will power is fulled by glucose.
+- The Mardi Gras theory and the failed experiment that showed that willpower is fulled by glucose.
 - The story of the Twinkie Defense.
 - The story of Jim Turner and his teleportation dream.
 - PMSing.
@@ -43,6 +49,8 @@
 
 - The Genesis
 - The story of Benjamin Franklin's virtues tracker
+- The experiment of Bill and John on addicts
+- The story of Drew Carey's problem with his inbox
 
 ## Quotes
 
