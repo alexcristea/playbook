@@ -23,7 +23,8 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### O
 
-- [OKR (Objective Key Result)](/views/okr.md)
+- [Outcome vs. Output](/views/outcome-vs-output.md)
+- [OKR (Objective and Key Results)](/views/okr.md)
 
 ### P
 
@@ -39,3 +40,25 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 ### C
 
 - [Checklist Manifesto, The](/books/the-checklist-manifesto.md)
+
+## Tools/ Checklists
+
+### D
+
+- [Daily Planning](/tools/checklists/daily-planning.md)
+
+### F
+
+- [Foto Processing](/tools/checklists/foto-processing.md)
+
+### M
+
+- [Monthly Planning](/tools/checklists/monthly-planning.md)
+
+### S
+
+- [SQ3R](/tools/checklists/sq3r.md)
+
+### W
+
+- [Weekly Planning](/tools/checklists/weekly-planning.md)
