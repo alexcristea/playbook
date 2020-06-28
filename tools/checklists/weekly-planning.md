@@ -2,8 +2,9 @@
 
 ## Review
 
-- Review personal initiatives
-- Review professional initiatives
+- Review _personal_ initiatives
+- Review _professional_ initiatives
+- _Delete_ or _Delay_ incomplete tasks
 
 ## Planning
 
