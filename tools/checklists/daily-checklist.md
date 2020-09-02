@@ -10,7 +10,7 @@
   - Review my agenda for today
   - What capacity do I have available for today?
 - [ ] What are my concerns?
-- [ ] What can be delegated?
+- [ ] What can be done, differed, delegated or deleted?
 
 ## Review
 
@@ -21,6 +21,7 @@
   - What will I do differently tomorrow?
   - Ask the 5 whys to identify the root cause of my failures.
 - [ ] What are the highlights of the day?
+- [ ] What feedback would I like to share with my peers?
 - [ ] What leftovers do I have for tomorrow?
 - [ ] Update trackers
 - [ ] Set my morning for success
