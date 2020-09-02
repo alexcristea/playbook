@@ -6,7 +6,7 @@ A collection of personal checklists.
 
 ### D
 
-- [Daily Planning](/tools/checklists/daily-planning.md)
+- [Daily Planning](/tools/checklists/daily-checklist.md)
 
 ### F
 

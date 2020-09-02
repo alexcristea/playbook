@@ -50,7 +50,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### D
 
-- [Daily Planning](/tools/checklists/daily-planning.md)
+- [Daily Checklist](/tools/checklists/daily-checklist.md)
 
 ### F
 
