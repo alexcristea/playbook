@@ -14,7 +14,7 @@ A collection of personal checklists.
 
 ### M
 
-- [Monthly Planning](/tools/checklists/monthly-planning.md)
+- [Monthly Checklist](/tools/checklists/monthly-checklist.md)
 
 ### S
 
@@ -22,4 +22,4 @@ A collection of personal checklists.
 
 ### W
 
-- [Weekly Planning](/tools/checklists/weekly-planning.md)
+- [Weekly Checklist](/tools/checklists/weekly-checklist.md)
