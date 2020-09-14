@@ -16,6 +16,10 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 
 - [Human Fallibility](/views/human-fallibility.md)
 
+### F
+
+- [Fixed vs. Growth Mindset](/views/fixed-vs-growth-mindset.md)
+
 ### K
 
 - [KPI (Key Performance Indicator)](/views/kpi.md)
