@@ -44,6 +44,10 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 - [Time Management](/views/time-management.md)
 
+### W
+
+- [Wheel of Life](/views/wheel-of-life.md)
+
 ## Books
 
 ### C
