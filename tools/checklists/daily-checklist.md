@@ -2,6 +2,8 @@
 
 ## Planning
 
+The idea behind daily planning is to identify what actions should I do today to achieve my weekly initiatives.
+
 - [ ] What am I grateful for today?
 - [ ] On what initiatives will I work today?
   - Look over the weekly initiatives, calendar, inbox, todos, confluence, etc
