@@ -12,13 +12,17 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 - [Checklist](/views/checklist.md)
 
-### H
+### E
 
-- [Human Fallibility](/views/human-fallibility.md)
+- [Emotional Bank Account](/views/emotional-bank-account.md)
 
 ### F
 
 - [Fixed vs. Growth Mindset](/views/fixed-vs-growth-mindset.md)
+
+### H
+
+- [Human Fallibility](/views/human-fallibility.md)
 
 ### K
 
@@ -32,16 +36,23 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### O
 
-- [Outcome vs. Output](/views/outcome-vs-output.md)
 - [OKR (Objective and Key Results)](/views/okr.md)
+- [Outcome vs. Output](/views/outcome-vs-output.md)
 
 ### P
 
+- [Performance Review](/views/performance-review.md)
 - [Power of Decision](/views/power-of-decision.md)
 - [Problem Complexity](/views/problem-complexity.md)
 
+### S
+
+- [Self-esteem](/views/self-esteem.md)
+- [Self-transcendence](/views/self-transcedence.md)
+
 ### T
 
+- [Thoughts](/views/thoughts.md)
 - [Time Management](/views/time-management.md)
 
 ### W
