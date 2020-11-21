@@ -18,6 +18,14 @@ They become business as usual, the daily process that helps maintain the status 
 
 One way you can view it is as something that indicates when something may be wrong. Like when you take your baby to her monthly checkup, and her weight is off the growth percentile graph. Most surely the pediatrician will recommend further investigation to see if there is a problem or your baby just ate too much milk.
 
+#### Methaphore
+
+Imagine your organization is a car and you’re driving that car towards a destination (your company's ultimate goal).
+
+[OKRs](/views/okr.md) will be your roadmap, mapping out your journey towards that point.
+
+But as you drive down your path, you'll also need to keep an eye on your car's dashboard to make sure that you don't run out of gas and that the engine doesn't overheat. It doesn't matter where you are on your journey, you'll constantly need to keep an eye on this. The things that you'll continually have to watch are best measured with [KPIs](/views/kpi.md): simple indicators that enable you to keep an eye on things.
+
 ## How
 
 1. Decide what you want to measure
