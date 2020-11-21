@@ -23,6 +23,13 @@ The **objectives** are the **why**, the **KRs** are the **how** and the **initia
 
 > **Objective**: Make our customers love our support team.
 
+#### The 2-step process to help you achieve your goals
+
+It takes 5 minutes per week — and our data shows that you’ll achieve 5 times more goals. For each goal:
+
+1. Make someone responsible.
+2. Keep that person accountable.
+
 ### Key Results (KR) — _How do I know I'm getting there_
 
 - Benchmark and measure progress toward the objective.
