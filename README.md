@@ -22,6 +22,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### H
 
+- [Happiness](/views/happiness.md)
 - [Human Fallibility](/views/human-fallibility.md)
 
 ### K
@@ -57,6 +58,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### W
 
+- [Well-being](/views/well-being.md)
 - [Wheel of Life](/views/wheel-of-life.md)
 
 ## Books

@@ -22,6 +22,7 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 
 ### H
 
+- [Happiness](/views/happiness.md)
 - [Human Fallibility](/views/human-fallibility.md)
 
 ### K
@@ -57,4 +58,5 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 
 ### W
 
+- [Well-being](/views/well-being.md)
 - [Wheel of Life](/views/wheel-of-life.md)
