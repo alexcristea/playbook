@@ -4,10 +4,6 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ## Views
 
-### A
-
-- [Anticipatory-anxiety](/views/anticipatory-anxiety.md)
-
 ### C
 
 - [Checklist](/views/checklist.md)
@@ -34,6 +30,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 - [Meaning in life](/views/meaning-in-life.md)
 - [Metric](/views/metric.md)
+- [Mind Flaws](/views/mind-flaws.md)
 
 ### O
 
